@@ -1,7 +1,5 @@
 import re
 
-
-
 texto = input().strip()
 
 patron_alumno = re.compile(r"(\b[a-z])\.([a-z]{2,})\.([0-9]{4})@alumnos\.urjc\.es")
