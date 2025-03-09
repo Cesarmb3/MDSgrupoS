@@ -1,1 +1,1 @@
-Hemos tenido un problema con el repositorio original donde hicimos los pulls, por lo que no hemos creado otro repositorio y César ha subido todo los anteriores pulls a este.
+Hemos tenido un problema con el repositorio original donde hicimos los pulls, por lo que no hemos creado otro repositorio y César ha subido todo los anteriores pulls a este. El problema deriva en que al crear otra rama, sonar no detectaba esta, por lo que finalmente, hemos tenido que crear otro repositorio
